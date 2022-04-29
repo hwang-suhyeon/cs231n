@@ -5,7 +5,7 @@
 `f = w3max(0, w2max(0, w1x))`
 
 ```python
-class NeuralNetwork(nn.Module): #nn.Module이라 forward
+class NeuralNetwork(nn.Module):
     def __init__(self):
         super(NeuralNetwork, self).__init__()
         self.flatten = nn.Flatten() 
