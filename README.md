@@ -2,7 +2,7 @@
 ## 모델 구조
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/77714083/165927714-1014bbcd-4855-468b-9334-f635996cd586.png">
 
-`f = w3max(0, w2max(0, w1x))`
+<img width="223" alt="image" src="https://user-images.githubusercontent.com/77714083/165929185-36028b6b-6181-4596-925d-e96e5fc16855.png">
 
 ```python
 class NeuralNetwork(nn.Module):
