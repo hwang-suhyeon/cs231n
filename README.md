@@ -18,3 +18,11 @@ class NeuralNetwork(nn.Module):
             nn.Linear(512, 10),  
         )
 ```
+## 사용한 활성화 함수
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/77714083/165929608-a7db573b-e076-4d2f-8287-79951904f3ff.png">
+Neural networks는 인간의 뉴런과 비슷한 방식으로 작동
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/77714083/165929333-ba06c13d-4ebd-43d8-950c-0ecd41aae366.png">
+비선형 함수 ReLU는 실제 뉴런과 가장 비슷한 함수
+
+  
