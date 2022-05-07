@@ -28,7 +28,7 @@ Neural networks는 인간의 뉴런과 비슷한 방식으로 작동
   
 # cs231n_4차 과제 코드 해석
 ## 모델 구조
-![image](https://user-images.githubusercontent.com/77714083/167238208-2a475058-42f4-40ec-8f0b-4a9635d1348e.png)
+![image](https://user-images.githubusercontent.com/77714083/167238530-983a711d-043c-4c39-8a51-6c0da7786d75.png)
 ## batch
 <img width="424" alt="image" src="https://user-images.githubusercontent.com/77714083/167238240-41feeda7-925a-4ce2-8842-f757cfa71531.png">
 
