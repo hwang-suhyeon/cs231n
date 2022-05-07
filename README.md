@@ -30,9 +30,9 @@ Neural networks는 인간의 뉴런과 비슷한 방식으로 작동
 ## 모델 구조
 ![image](https://user-images.githubusercontent.com/77714083/167238208-2a475058-42f4-40ec-8f0b-4a9635d1348e.png)
 ## batch
-[출처]https://gaussian37.github.io/dl-concept-batchnorm/
 <img width="424" alt="image" src="https://user-images.githubusercontent.com/77714083/167238240-41feeda7-925a-4ce2-8842-f757cfa71531.png">
 
+[출처]https://gaussian37.github.io/dl-concept-batchnorm/
 대용량의 데이터를 한번에 학습하여 모델 업데이트 하기에는 비효율적이므로 데이터를 batch 단위로 나눠서 학습(샘플링)
 ## batch normalization
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/77714083/167238332-8afa3ea7-b42d-47c1-9b98-2558e8280596.png">
